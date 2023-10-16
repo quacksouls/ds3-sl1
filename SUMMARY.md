@@ -9,3 +9,4 @@
 - [Raw Broadsword+7, part 1](doc/raw-broadsword+7-1.md)
 - [Raw Broadsword+7, part 2](doc/raw-broadsword+7-2.md)
 - [Raw Broadsword+9 & Knight's Ring](doc/raw-broadsword+9.md)
+- [Raw Broadsword+10](doc/raw-broadsword+10.md)
