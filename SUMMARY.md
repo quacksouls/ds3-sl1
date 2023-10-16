@@ -11,3 +11,4 @@
 - [Raw Broadsword+9 & Knight's Ring](doc/raw-broadsword+9.md)
 - [Raw Broadsword+10](doc/raw-broadsword+10.md)
 - [Havel's Ring](doc/havels-ring.md)
+- [Carthus Milkring](doc/carthus-milkring.md)
