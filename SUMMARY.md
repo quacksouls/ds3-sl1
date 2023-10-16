@@ -12,3 +12,4 @@
 - [Raw Broadsword+10](doc/raw-broadsword+10.md)
 - [Havel's Ring](doc/havels-ring.md)
 - [Carthus Milkring](doc/carthus-milkring.md)
+- [Dragonslayer's Axe](doc/dragonslayers-axe.md)
