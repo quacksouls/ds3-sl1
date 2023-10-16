@@ -1,24 +1,18 @@
-# Project name
+# SL1 run of Dark Souls III
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Insert introduction
+Tips, strategies, and routes for your first SL1 run of Dark Souls III. This
+guide complements the videos here:
 
-<!-- ====================================================================== -->
-
-## Development
-
-We customized various themes:
-
-<!-- prettier-ignore -->
-Insert list of customized themes
+https://www.youtube.com/playlist?list=PL2OiiNZU6nWO3V7BeYeRw7v1M4KSf2oC2
 
 <!-- ====================================================================== -->
 
 ## Acknowledgement
 
 <!-- prettier-ignore -->
-- [HonKit](https://github.com/honkit/honkit) is used to build the tutorial.
+- [HonKit](https://github.com/honkit/honkit) is used to build the guide.
 
 <!-- ====================================================================== -->
 
