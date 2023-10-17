@@ -22,3 +22,4 @@
 - [Soul of Cinder](doc/soul-cinder.md)
 - [Painted World of Ariandel](doc/painted-world-ariandel.md)
 - [The Dreg Heap](doc/dreg-heap.md)
+- [The Ringed City](doc/ringed-city.md)
