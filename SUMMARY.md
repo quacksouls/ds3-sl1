@@ -20,3 +20,4 @@
 - [Prisoner's Chain](doc/prisoners-chain.md)
 - [Dragon Chaser's Ashes](doc/dragon-chasers-ashes.md)
 - [Soul of Cinder](doc/soul-cinder.md)
+- [Painted World of Ariandel](doc/painted-world-ariandel.md)
