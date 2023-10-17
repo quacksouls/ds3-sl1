@@ -18,3 +18,4 @@
 - [Hunter's Ring](doc/hunters-ring.md)
 - [Ring of Favor](doc/ring-favor.md)
 - [Prisoner's Chain](doc/prisoners-chain.md)
+- [Dragon Chaser's Ashes](doc/dragon-chasers-ashes.md)
