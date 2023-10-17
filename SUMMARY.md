@@ -16,3 +16,4 @@
 - [Titanite Slab from Siegward](doc/titanite-slab-from-siegward.md)
 - [Sun Princess Ring](doc/sun-princess-ring.md)
 - [Hunter's Ring](doc/hunters-ring.md)
+- [Ring of Favor](doc/ring-favor.md)
