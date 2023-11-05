@@ -2,8 +2,9 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Tips, strategies, and routes for your first SL1 run of Dark Souls III. This
-guide complements the videos here:
+Tips, strategies, and routes for your first SL1 run of
+[Dark Souls III](https://store.steampowered.com/app/374320/DARK_SOULS_III/).
+This guide complements the videos here:
 
 https://www.youtube.com/playlist?list=PL2OiiNZU6nWO3V7BeYeRw7v1M4KSf2oC2
 
